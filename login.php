@@ -1,7 +1,7 @@
 <html>
 <head>
 <?php
-require('library/phpfunctions.php');
+require('phpfunctions.php');
 // local functions
 function login($user, $pass){
     if ($user == 'zayne' && $pass == 'bon')
